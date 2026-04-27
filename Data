@@ -1,0 +1,57 @@
+# Databricks SQL Project - Franchise bakehouse Dataset
+
+## Project Overview
+This project demonstrates the use of SQL in Databricks to perform data analysis using DDL (Data Definition Language) and DML (Data Manipulation Language) operations on an Franchise bakehouse dataset.
+
+The goal is to analyze listing prices, neighbourhood trends, and perform data manipulation for better insights.
+
+---
+
+## Tools Used
+- Databricks
+- SQL
+
+---
+
+## Dataset Description
+The dataset contains Franchise bakehouse listings information including:
+
+- Name – Listing name  
+- Latitude
+- Longitude
+- Zipcode
+- Size
+- District
+---
+
+## DDL Operations Performed
+- delete name
+- delete product
+---
+
+## DML Operations Performed
+- select * from Franchise bakehouse
+- select Latitude and longitude
+- select District and Name
+
+---
+
+## Project Steps
+1. Loaded and previewed dataset  
+2. Applied DDL queries to filter and structure data  
+3. Performed DML operations for data manipulation  
+4. Executed aggregation and filtering queries  
+ 
+
+
+## Output
+- All SQL queries are executed in Databricks  
+- Screenshots of outputs are included in the repository  
+- Reports are available as notebooks (Report 1 & Report 2)
+
+---
+
+## Conclusion
+This project helped in understanding practical usage of SQL in Databricks, including data filtering, transformation.
+
+It also demonstrates how real-world datasets can be analyzed to extract meaningful insights.
